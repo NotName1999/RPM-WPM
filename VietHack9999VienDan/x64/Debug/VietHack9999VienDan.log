@@ -1,0 +1,10 @@
+﻿  VietHack9999VienDan.cpp
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(61,16): warning C4311: '<function-style-cast>': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(61,16): warning C4302: '<function-style-cast>': truncation from 'BYTE *' to 'DWORD'
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(71,16): warning C4311: '<function-style-cast>': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(71,16): warning C4302: '<function-style-cast>': truncation from 'BYTE *' to 'DWORD'
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(87,35): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(91,36): warning C4312: '<function-style-cast>': conversion from 'unsigned long' to 'LPVOID' of greater size
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(130,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Project\VietHack9999VienDan\VietHack9999VienDan\VietHack9999VienDan.cpp(49,1): warning C4715: 'GetPidG': not all control paths return a value
+  VietHack9999VienDan.vcxproj -> C:\Project\VietHack9999VienDan\x64\Debug\VietHack9999VienDan.exe
